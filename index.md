@@ -1,39 +1,42 @@
-## Welcome to GitHub Pages
+## TU Delft Library - Digital Services Programme 
 
-Is this where we enter stuff? 
+### Vision
 
-You can use the [editor on GitHub](https://github.com/tu-delft-library/dsp-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**TU Delft Library’s Digital Service Programme will deliver sustainable, trusted and engaging digital services that help meet the strategic aims of Delft University of Technology.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Forthcoming Dates 
 
-### Markdown
+7 May - Discussion with Resources Team
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+10 May - Discussion with Research Services Team
 
-```markdown
-Syntax highlighted code block
+18 May - Discussion with Education Services Team
 
-# Header 1
-## Header 2
-### Header 3
+25 May - Meeting with Team Heads - Services Definition Workshop
 
-- Bulleted
-- List
+13 July - Presentation to CvB
 
-1. Numbered
-2. List
+6 September - Official Launch
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Background
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Libraries are still facing up to the consequences of the digital shift. Traditionally seen as the gatekeepers of printed knowledge, the digital turn (and in particular the development of the Internet) demands that libraries recalibrate and reform how they provide (and receive) knowledge to their users within the context of a digital university.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tu-delft-library/dsp-test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The Internet moves quickly. The role of university libraries recently has not simply been to move services online, but to rethink those services in the context of changing researcher, teacher and student demands.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The Library of TU Delft is no exception to this. And while TU Delft Library still offers a vibrant library space and collection, many of its key services have an online presence.
+
+
+For some services, the entire service is delivered digitally. In the Covid-era, the balance between physical and digital research and education shifted even more towards digital.
+
+This brings with it all kinds of challenges.
+
+-    To understand these changing contexts and to remain relevant (how we engage users)
+ -   to rethink the financing behind such services (how we keep services running)
+  -  to redefine the skills and experiences needed for the library workforce (what staff do we need)
+   - aligning library services with the larger strategic mission of the university.
+
+Such services need to be trusted - not just in the straightforward sense of trusting that something works, (functional reliability), but also a broader sense of trust. Services need to operate according to core academic values - that they are  transparent, democratic, open, inclusive, and enabling. Such challenges underpin the vision of this Digital Programme.
